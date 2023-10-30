@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>HDFCBank Releases Nexus Repository</name>
+	      <url>http://3.110.133.110:9980/venkatesh/repository/HDFC-Bank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>HDFCBank Snapshot Nexus Repository </name>
+	      <url>http://3.110.133.110:9980/venkatesh/repository/HDFC-Bank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
